@@ -1,3 +1,7 @@
+<html>
+<body> something </body>
+</html>
+
 name: Azure Static Web Apps CI/CD
 
 on:
